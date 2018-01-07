@@ -1,0 +1,3 @@
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/petya230/gcc
